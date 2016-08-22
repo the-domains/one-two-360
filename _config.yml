@@ -1,0 +1,14 @@
+layout_spectrum: 0.3312117194291204
+typography_spectrum: 0.7210301901213825
+color:
+  brandStrength: 0.14589944412000477
+  lightness: 0.5821301948744804
+  saturation: 0.7142647637519985
+  rhythmicContrast: 0.33854933618567884
+  brandColors:
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+name: One-Two-360
